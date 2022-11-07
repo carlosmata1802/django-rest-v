@@ -1,0 +1,6 @@
+.cache/
+.pytest_cache/
+*.lock
+*.pyc
+*.swp
+*.sql
